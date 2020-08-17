@@ -1,0 +1,3 @@
+x0 not x0 x1 not x1 x2 not x2,
+x0 not x1 not x2,
+not x0 x1 not x2,
